@@ -15,12 +15,12 @@
 
 Установка зависимостей:
 ```bash
-pip install -r projects/python/requirements.txt
+pip install requirements.txt
 ```
 
 ## 🚀 Запуск
 ```bash
-python projects/python/password_manager.py
+python password_manager.py
 ```
 
 При первом запуске задайте мастер‑пароль. Он нужен для доступа и расшифровки.
